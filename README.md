@@ -37,8 +37,8 @@ npm install
 
 1. Go to the [Google Cloud Console](https://console.cloud.google.com/)
 2. Create a new OAuth 2.0 client ID (type: **Desktop App**)
-3. Download the credentials file and rename it to `credentials.json`
-4. Place `credentials.json` in the root of the project
+3. Download the credentials file and rename it to `oauth.json`
+4. Place `oauth.json` in the root of the project
 5. Add your Google account email as a test user under **OAuth consent screen**
 
 ### 3. Set up environment variables
